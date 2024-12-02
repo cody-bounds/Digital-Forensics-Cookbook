@@ -10,7 +10,7 @@ it has been unzipped. To unzip the provided data, you will need to use 7-Zip, wh
 Please ensure the computer or storage drive you will be using has enough storage space to support the listed 'Uncompressed'
 size for each data set.
 
-> Total uncompressed size for all files combined = ~48.09GB
+> Total uncompressed size for all files combined = ~48.96GB
 
 > [!NOTE]
 > If you find a link is broken or not working, please contact digital-forensics-cookbook@gmail.com     
@@ -24,8 +24,8 @@ size for each data set.
 [Apple macOS](https://drive.usercontent.google.com/download?id=1rNSwXCvI_ZLVrKS_uT8CWWtJWuw9CKlm&export=download)
 > **MD5:** *885C5B87437422D88BCBE5BBE5BE1BEE* <br> **Archive Size:** 7.12GB <br> **Uncompressed:** 19.1GB
 
-[Linux]()
-> **MD5:** *Value* <br> **Archive Size:** Value <br> **Uncompressed:** Value
+[Linux](https://drive.usercontent.google.com/download?id=1VGjde36DEXgWqJR42XPt5yswDSd3eMSe&export=download)
+> **MD5:** *45A745E3D609EC9777DFEF33CAF49372* <br> **Archive Size:** 813MB <br> **Uncompressed:** 869MB
 
 ---
 ## CHAPTER 09
