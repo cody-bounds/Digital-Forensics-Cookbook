@@ -12,7 +12,7 @@ size for each data set.
 > Total uncompressed size for all files combined = ~48.96GB 
 
 ---
-## C:\CHAPTER\08>_
+## C:\HAPTER\08>_
 
 [Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download)
 > **MD5:** *77C8E3C34B35FE9EF881A9437164676C* <br> **Archive Size:** 3.46GB <br> **Uncompressed:** 3.57GB
