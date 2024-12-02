@@ -1,7 +1,7 @@
 # Software-Tools
 
-### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) by LSoft Technologies
-Stoage drive sanitization
+### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>LSoft Technologies</sup>
+> Stoage drive sanitization
 
 ### [aLEAPP](https://github.com/abrignoni/aLEAPP/releases/) by Alexis Brignoni
 > Automated parsing of acquired data from Android devices
