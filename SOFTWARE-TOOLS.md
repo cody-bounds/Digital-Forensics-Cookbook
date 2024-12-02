@@ -1,8 +1,8 @@
 # Software-Tools
 
-The following is a list of software tools referenced throughout the Digital Forensics Cookbook along with a short description of their applied usage. 
+The following is a list of software tools referenced throughout the *Digital Forensics Cookbook* along with a short description of their applied usage. 
 While all of these tools are free or open-source, many of the developers also provide pro-versions with additional features or other commercial tools 
-that make digital forensic analysis much more efficient.
+that make digital forensic analysis even more efficient.
 
 > [!TIP]
 > Hold the **CTRL** key when clicking on links to open the download page in a new tab
