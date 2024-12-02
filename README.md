@@ -18,7 +18,7 @@ TOTAL UNCOMPRESSED SIZE FOR ALL FILES COMBINED = ~48.09GB
 
 ******************************************************** CHAPTER 08 ********************************************************
 
-[Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download){:target="_blank"}
+[Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download){target="_blank"}
 MD5: 77C8E3C34B35FE9EF881A9437164676C
 Archive Size: 3.46GB
 Uncompressed: 3.57GB
