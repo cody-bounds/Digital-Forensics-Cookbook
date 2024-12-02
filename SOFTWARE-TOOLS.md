@@ -1,10 +1,11 @@
 # Software-Tools
 
 The following is a list of software tools referenced throughout the Digital Forensics Cookbook. While all of these tools are free, many of
-the developers also provide paid pro-versions with additional features or other commercial tools that make digital forensic analysis much more efficient.
+the developers also provide pro-versions with additional features or other commercial tools that make digital forensic analysis much more efficient.
 
 > [!TIP]
 > Hold the **CTRL** key when clicking on links to open the download in a new tab
+
 ---
 ### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>LSoft Technologies</sup>
 > Stoage drive sanitization
