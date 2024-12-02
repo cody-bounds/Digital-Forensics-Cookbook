@@ -1,6 +1,6 @@
 # Software-Tools
 
-The following is a list of useful software tools referenced throughout the Digital Forensics Cookbook. While all of these tools are free, many of
+The following is a list of software tools referenced throughout the Digital Forensics Cookbook. While all of these tools are free, many of
 the developers also provide paid pro-versions with additional features or other commercial tools that make digital forensic analysis much more efficient.
 
 > [!TIP]
