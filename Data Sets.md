@@ -16,7 +16,7 @@ If you find a link is broken or not working, please contact digital-forensics-co
 ## CHAPTER 08
 
 [Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download)
-> **MD5:** 77C8E3C34B35FE9EF881A9437164676C <br> **Archive Size:** 3.46GB > **Uncompressed:** 3.57GB
+> **MD5:** 77C8E3C34B35FE9EF881A9437164676C <br> **Archive Size:** 3.46GB <br> **Uncompressed:** 3.57GB
 
 Apple macOS
 https://drive.usercontent.google.com/download?id=1rNSwXCvI_ZLVrKS_uT8CWWtJWuw9CKlm&export=download
