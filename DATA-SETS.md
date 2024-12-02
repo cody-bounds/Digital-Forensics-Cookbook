@@ -6,7 +6,7 @@ it has been unzipped. To unzip the provided data, you will need to use 7-Zip, wh
 > [!TIP]
 > Hold the **CTRL** key when clicking on links to open the download in a new tab
 
-Please ensure the computer or storage drive you will be using has enough storage space to support the listed 'Uncompressed'
+Please ensure the computer or storage drive you are using has enough storage space to support the 'Uncompressed'
 size for each data set.
 
 > Total uncompressed size for all files combined = ~48.96GB 
