@@ -1,5 +1,5 @@
 # Digital-Forensics-Cookbook
-This repository contains the forensic image files for practicing exercises shown in the *Digital Forensics Cookbook*, available from Packt publishing.
+This repository contains the forensic image file data sets and software download links for practicing exercises shown in the *Digital Forensics Cookbook*, available from Packt publishing.
 
 > [!IMPORTANT]
 > If you find a link is broken or not working, please contact digitalforensicscookbook@gmail.com
