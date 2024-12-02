@@ -15,7 +15,7 @@
 ### [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) <sup>NirSoft</sup>
 > Examination of files cached by Google Chrome and other Chromium web browsers
 ---
-### [DB Browser for SQLite](https://sqlitebrowser.org/dl/) <sup>open-source project</sup>
+### [DB Browser for SQLite](https://sqlitebrowser.org/dl/) <sup>*open-source project*</sup>
 >  Examining and running queries on SQLite databases
 ---
 ### [DCode](https://www.digital-detective.net/dcode/) <sup>Digital Detective</sup>
@@ -33,10 +33,10 @@
 ### [FTK Imager](www.exterro.com/ftk-product-downloads/) <sup>Exterro</sup>
 > Evidence triage, acquisition, exporting, and simple analysis
 ---
-### [FSEventsParser](https://github.com/dlcowen/FSEventsParser) <sup>open-source project</sup>
+### [FSEventsParser](https://github.com/dlcowen/FSEventsParser) <sup>*open-source project*</sup>
 > Parsing Apple macOS file system event logs
 ---
-### [Hashcat](https://hashcat.net/hashcat/) <sup>open-source project</sup>
+### [Hashcat](https://hashcat.net/hashcat/) <sup>*open-source project*</sup>
 > Password recovery of encrypted data
 ---
 ### [HxD](https://mh-nexus.de/en/hxd/) <sup>Maël Hörz</sup>
@@ -66,7 +66,7 @@
 ### [Paladin Edge](https://sumuri.com/product/paladin-edge-64-bit/) <sup>Sumuri</sup>
 > Alternative OS system booting for triage, acquisition, and analysis
 ---
-### [Rufus](https://rufus.ie/en/) <sup>open-source project</sup>
+### [Rufus](https://rufus.ie/en/) <sup>*open-source project*</sup>
 > Creating bootable USB devices
 ---
 ### [Thumbcache Viewer](https://thumbcacheviewer.github.io/) <sup>Eric Kutcher</sup>
@@ -75,10 +75,10 @@
 ### [USB Write Blocker](https://github.com/digitalsleuth/Registry-Write-Block/archive/refs/heads/master.zip) <sup>Digital Sleuth</sup>
 > Software write blocking USB ports on a Microsoft Windows machine to support acquisition
 ---
-### [Velociraptor](https://github.com/Velocidex/velociraptor/releases/) <sup>open-source project</sup>
+### [Velociraptor](https://github.com/Velocidex/velociraptor/releases/) <sup>*open-source project*</sup>
 > Monitoring, searching, and data acquisition across a network to scale threat hunting efforts
 ---
-### [XPlist](https://github.com/ic005k/Xplist/releases) <sup>open-source project</sup>
+### [XPlist](https://github.com/ic005k/Xplist/releases) <sup>*open-source project*</sup>
 > Viewing Apple property list (Plist) files
 ---
 ### [Z-Tools](https://ericzimmerman.github.io/#!index.md) <sup>Eric Zimmerman</sup>
