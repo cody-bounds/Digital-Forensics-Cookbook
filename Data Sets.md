@@ -8,7 +8,7 @@ Please ensure the computer or storage drive you will be using has enough storage
 size for each data set.
 
 > [!NOTE]
-> TOTAL UNCOMPRESSED SIZE FOR ALL FILES COMBINED = ~48.09GB
+> Total uncompressed size for all files combined = ~48.09GB
 
 If you find a link is broken or not working, please contact digital-forensics-cookbook@gmail.com     
 
@@ -16,9 +16,7 @@ If you find a link is broken or not working, please contact digital-forensics-co
 ## CHAPTER 08
 
 [Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download)
-> **MD5:** 77C8E3C34B35FE9EF881A9437164676C
-> **Archive Size:** 3.46GB
-> **Uncompressed:** 3.57GB
+> **MD5:** 77C8E3C34B35FE9EF881A9437164676C > **Archive Size:** 3.46GB > **Uncompressed:** 3.57GB
 
 Apple macOS
 https://drive.usercontent.google.com/download?id=1rNSwXCvI_ZLVrKS_uT8CWWtJWuw9CKlm&export=download
