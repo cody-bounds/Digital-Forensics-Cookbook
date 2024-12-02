@@ -1,6 +1,6 @@
 # Software-Tools
 
-### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>LSoft Technologies</sup>
+### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>by LSoft Technologies</sup>
 > Stoage drive sanitization
 
 ### [aLEAPP](https://github.com/abrignoni/aLEAPP/releases/) by Alexis Brignoni
