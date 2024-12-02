@@ -4,7 +4,10 @@ The following is a list of software tools referenced throughout the Digital Fore
 the developers also provide pro-versions with additional features or other commercial tools that make digital forensic analysis much more efficient.
 
 > [!TIP]
-> Hold the **CTRL** key when clicking on links to open the download in a new tab
+> Hold the **CTRL** key when clicking on links to open the download page in a new tab
+
+> [!IMPORTANT]
+> Software tools denoted by an asterisks (*) require you make an account to download
 
 ---
 ### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>LSoft Technologies</sup>
