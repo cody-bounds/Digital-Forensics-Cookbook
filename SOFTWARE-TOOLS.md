@@ -1,14 +1,15 @@
 # Software-Tools
 
-The following is a list of software tools referenced throughout the Digital Forensics Cookbook. While all of these tools are free, many of
-the developers also provide pro-versions with additional features or other commercial tools that make digital forensic analysis much more efficient.
+The following is a list of software tools referenced throughout the Digital Forensics Cookbook along with a short description of their applied usage. 
+While all of these tools are free or open-source, many of the developers also provide pro-versions with additional features or other commercial tools 
+that make digital forensic analysis much more efficient.
 
 > [!TIP]
 > Hold the **CTRL** key when clicking on links to open the download page in a new tab
 
 ---
 ### [Active@ KillDisk](https://www.killdisk.com/killdisk-freeware.htm) <sup>LSoft Technologies</sup>
-> Stoage drive sanitization
+> Storage drive sanitization
 ---
 ### [aLEAPP](https://github.com/abrignoni/aLEAPP/releases/) <sup>Alexis Brignoni</sup>
 > Automated parsing of acquired data from Android devices
