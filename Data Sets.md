@@ -5,7 +5,7 @@ Forensic image files for practicing exercises available in the Digital Forensics
 it has been unzipped. To unzip the provided data, you will need to use 7-Zip, which can be downloaded for free [here](https://7-zip.org/download.html).
 
 > [!TIP]
-> Hold the **CTRL** key when clicking the links to open the download in a new tab
+> Hold the **CTRL** key when clicking on links to open the download in a new tab
 
 Please ensure the computer or storage drive you will be using has enough storage space to support the listed 'Uncompressed'
 size for each data set.
