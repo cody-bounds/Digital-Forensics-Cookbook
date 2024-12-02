@@ -1,7 +1,7 @@
 # Digital-Forensics-Cookbook
 This repository contains the forensic image files and other useful data for practicing exercises shown in the Digital Forensics Cookbook, available from Packt publishing.
 
-> [!NOTE]
+> [!IMPORTANT]
 > If you find a link is broken or not working, please contact digitalforensicscookbook@gmail.com
 
 ### [Data Sets](https://github.com/cody-bounds/Digital-Forensics-Cookbook/blob/main/DATA-SETS.md)
