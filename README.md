@@ -1,13 +1,6 @@
 # Digital-Forensics-Cookbook
 Forensic image files for practicing exercises available in the Digital Forensics Cookbook, available from Packt publishing.
 
-#############################################################################################################################
-####                                              DIGITAL FORENSICS COOKBOOK                                             ####
-####                                                  SAMPLE DATA SETS                                                   ####
-#############################################################################################################################
-
-Below are download URLs for each sample data set used in the 'Digital Forensics Cookbook'.
-
 'MD5' and 'Archive Size' values refer to the downloadable archive files; 'Uncompressed' lists the size of each archive once
 it has been unzipped. To unzip the provided data, you will need to use 7-Zip, which can be downloaded for free here.
 
@@ -16,14 +9,14 @@ size for each data set.
 
 TOTAL UNCOMPRESSED SIZE FOR ALL FILES COMBINED = ~48.09GB
 
-******************************************************** CHAPTER 08 ********************************************************
+
+CHAPTER 08
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
 
 [Microsoft Windows](https://drive.usercontent.google.com/download?id=1ib5dMcT3aAkF6OOVad7u_hNilTEHi5Au&export=download)
 MD5: 77C8E3C34B35FE9EF881A9437164676C
 Archive Size: 3.46GB
 Uncompressed: 3.57GB
-
--   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
 
 Apple macOS
 https://drive.usercontent.google.com/download?id=1rNSwXCvI_ZLVrKS_uT8CWWtJWuw9CKlm&export=download
@@ -31,14 +24,14 @@ MD5: 885C5B87437422D88BCBE5BBE5BE1BEE
 Archive Size: 7.12GB
 Uncompressed: 19.1GB
 
--   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
-
 Linux
 MD5: 
 Archive Size: 
 Uncompressed: 
 
-******************************************************** CHAPTER 09 ********************************************************
+
+CHAPTER 09
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
 
 Apple iOS
 https://drive.usercontent.google.com/download?id=1nvBALZFIb4g06vHQb5LBz9h31SjL6vXY&export=download
