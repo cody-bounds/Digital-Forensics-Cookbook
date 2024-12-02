@@ -17,7 +17,7 @@ that make digital forensic analysis even more efficient.
 ### [Arsenal Image Mounter](https://arsenalrecon.com/downloads) <sup>Arsenal Recon</sup>
 > Mounting disk images and VSCs
 ---
-### [Autopsy](www.autopsy.com/download/) <sup>Sleuth Kit Labs</sup>
+### [Autopsy](https://www.autopsy.com/download/) <sup>Sleuth Kit Labs</sup>
 > Open-source digital forensic analysis suite
 ---
 ### [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) <sup>NirSoft</sup>
@@ -38,7 +38,7 @@ that make digital forensic analysis even more efficient.
 ### [Fing Desktop](https://www.fing.com/fing-desktop/) <sup>Fing</sup>
 > Scanning a network to find active client and public IP information
 ---
-### [FTK Imager](www.exterro.com/ftk-product-downloads/) <sup>Exterro</sup>
+### [FTK Imager](https://www.exterro.com/ftk-product-downloads/) <sup>Exterro</sup>
 > Evidence triage, acquisition, exporting, and simple analysis
 ---
 ### [FSEventsParser](https://github.com/dlcowen/FSEventsParser) <sup>*open-source project*</sup>
@@ -80,7 +80,7 @@ that make digital forensic analysis even more efficient.
 ### [Thumbcache Viewer](https://thumbcacheviewer.github.io/) <sup>Eric Kutcher</sup>
 > Analysis and content viewing of Microsoft Windows thumbcache databases
 ---
-### [USB Write Blocker](https://github.com/digitalsleuth/Registry-Write-Block/archive/refs/heads/master.zip) <sup>Digital Sleuth</sup>
+### [USB Write Blocker](https://github.com/digitalsleuth/Registry-Write-Block) <sup>Digital Sleuth</sup>
 > Software write blocking USB ports on a Microsoft Windows machine to support acquisition
 ---
 ### [Velociraptor](https://github.com/Velocidex/velociraptor/releases/) <sup>*open-source project*</sup>
